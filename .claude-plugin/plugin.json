@@ -1,8 +1,8 @@
 {
   "name": "staylo",
-  "displayName": "Staylo",
-  "version": "1.0.0",
-  "description": "Find hotels worldwide at net rates and see your saving against the public price, right in the conversation. Filter by budget, free cancellation, breakfast and rating, then book on the Staylo website.",
+  "displayName": "Staylo — Hotel Booking at Net Rates",
+  "version": "1.0.1",
+  "description": "Hotel booking at net rates, right in your conversation: find hotels worldwide, see your saving against the public price, filter by budget, free cancellation, breakfast and rating, then book on the Staylo website.",
   "author": {
     "name": "Staylo",
     "email": "contact@staylo.fr",

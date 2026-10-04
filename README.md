@@ -1,6 +1,6 @@
-# Staylo for Claude
+# Staylo — Hotel Booking at Net Rates
 
-**Hotels at net rates, right in your conversation.** Ask Claude for a place to stay and get live hotel prices from Staylo, shown next to each hotel's public price so you see exactly how much you save. Filter by budget, free cancellation, breakfast or guest rating, then book in one click on the Staylo website.
+**Hotel booking at net rates, right in your conversation.** Ask Claude for a place to stay and get live hotel prices from Staylo, shown next to each hotel's public price so you see exactly how much you save. Filter by budget, free cancellation, breakfast or guest rating, then book in one click on the Staylo website.
 
 ## What's inside
 
