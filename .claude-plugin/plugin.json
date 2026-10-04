@@ -1,0 +1,15 @@
+{
+  "name": "staylo",
+  "displayName": "Staylo",
+  "version": "1.0.0",
+  "description": "Find hotels worldwide at net rates and see your saving against the public price, right in the conversation. Filter by budget, free cancellation, breakfast and rating, then book on the Staylo website.",
+  "author": {
+    "name": "Staylo",
+    "email": "contact@staylo.fr",
+    "url": "https://mcp.staylo.fr/docs"
+  },
+  "homepage": "https://mcp.staylo.fr/docs",
+  "repository": "https://github.com/nicolas-ship-it-now/staylo-claude-plugin",
+  "license": "MIT",
+  "keywords": ["hotels", "travel", "booking", "deals", "accommodation", "trip-planning"]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "staylo": {
+      "type": "http",
+      "url": "https://mcp.staylo.fr"
+    }
+  }
+}
