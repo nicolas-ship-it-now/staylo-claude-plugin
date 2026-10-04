@@ -1,7 +1,7 @@
 {
   "name": "staylo",
   "displayName": "Staylo — Hotel Booking at Net Rates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hotel booking at net rates, right in your conversation: find hotels worldwide, see your saving against the public price, filter by budget, free cancellation, breakfast and rating, then book on the Staylo website.",
   "author": {
     "name": "Staylo",
@@ -19,5 +19,8 @@
     "accommodation",
     "trip-planning"
   ],
-  "privacyPolicyUrl": "https://mcp.staylo.fr/privacy"
+  "privacyPolicyUrl": "https://mcp.staylo.fr/privacy",
+  "documentationUrl": "https://mcp.staylo.fr/docs",
+  "supportUrl": "https://mcp.staylo.fr/support",
+  "termsOfServiceUrl": "https://mcp.staylo.fr/terms"
 }
