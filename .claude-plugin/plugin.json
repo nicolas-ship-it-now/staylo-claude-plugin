@@ -11,5 +11,13 @@
   "homepage": "https://mcp.staylo.fr/docs",
   "repository": "https://github.com/nicolas-ship-it-now/staylo-claude-plugin",
   "license": "MIT",
-  "keywords": ["hotels", "travel", "booking", "deals", "accommodation", "trip-planning"]
+  "keywords": [
+    "hotels",
+    "travel",
+    "booking",
+    "deals",
+    "accommodation",
+    "trip-planning"
+  ],
+  "privacyPolicyUrl": "https://mcp.staylo.fr/privacy"
 }
